@@ -1,2 +1,2 @@
 # vidar
-LAN tunnel proxy to evade censorship.
+LAN tunnel proxy evading censorship.
